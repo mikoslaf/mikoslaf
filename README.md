@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Fivem script for zones of influence](https://github.com/mikoslaf/c-zones-influence)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C#, ASP.NET MVC**
 
 - 💬 Ask me about **My Lua/C# project**
 
