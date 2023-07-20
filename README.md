@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikoslaf&label=Profile%20views&color=0e75b6&style=flat" alt="mikoslaf" /> </p>
 
-- 🔭 I’m currently working on [Fivem script for zones of influence](https://github.com/mikoslaf/c-zones-influence)
+- 🔭 I’m currently working on [Chess AI](https://github.com/mikoslaf/Chess)
 
 - 🌱 I’m currently learning **C#, ASP.NET MVC**
 
