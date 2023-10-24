@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Chess AI](https://github.com/mikoslaf/Chess)
 
-- 🌱 I’m currently learning **C#, ASP.NET MVC**
+- 🌱 I’m currently learning **Python, Django**
 
 - 💬 Ask me about **My Lua/C# project**
 
