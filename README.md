@@ -1,20 +1,38 @@
-<h1 align="center">Hi 👋, I'm Mikołaj</h1>
-<h3 align="center">A passionate junior developer from Poland.</h3>
+<h1 align="center">Hello 👋, I'm Mikołaj</h1>
+<h3 align="center">Junior developer from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikoslaf&label=Profile%20views&color=0e75b6&style=flat" alt="mikoslaf" /> </p>
 
-- 🔭 I’m currently working on [Chess AI](https://github.com/mikoslaf/Chess)
+- 💡 My best public project on GitHub is [MChess Bot](https://github.com/mikoslaf/M_Chess-Bot)
 
-- 🌱 I’m currently learning **Python, Django**
-
-- 💬 Ask me about **My Lua/C# project**
-
+- 📚 I’m currently learning **Python, Django**
+  
 - 📫 How to reach me **mikolaj2003wojcik@gmail.com**
 
-- ⚡ Fun fact **I' ve finished programming school**
+<h3 align="left">My Website projects:</h3>
+<p align="left">
+  <a href="https://github.com/mikoslaf/M_Chess-Bot" target="_blank" rel="noreferrer"> <img src="https://imgur.com/gCsgodz.png" alt="Mchess"/> </a> 
+  <a href="https://github.com/mikoslaf/giarddesign" target="_blank" rel="noreferrer"> <img src="https://imgur.com/0HV17AN.png" alt="giarddesign"/> </a> 
+  <a href="https://github.com/mikoslaf/bittner" target="_blank" rel="noreferrer"> <img src="https://imgur.com/m0m2dLN.png" alt="Bittner"/> </a> 
+  <a href="https://github.com/mikoslaf/Triumphant-Symphony-Website" target="_blank" rel="noreferrer"> <img src="https://imgur.com/4LWFtQR.png" alt="Triumphant_Symphony"/> </a> 
+  <a href="https://github.com/mikoslaf/JUVO" target="_blank" rel="noreferrer"> <img src="https://imgur.com/qbbeD9S.png" alt="JUVO"/> </a> 
+</p>
+
+<h3 align="left">My C# and Lua projects:</h3>
+<p align="left">
+  <a href="https://github.com/mikoslaf/c-zones-influence" target="_blank" rel="noreferrer"> <img src="https://imgur.com/7mjnkmx.png" alt="c-zones-influence"/> </a> 
+  <a href="https://github.com/mikoslaf/c_follow_mono_v2" target="_blank" rel="noreferrer"> <img src="https://imgur.com/Q05eNti.png" alt="c_follow"/> </a> 
+  <a href="https://github.com/mikoslaf/qb-back" target="_blank" rel="noreferrer"> <img src="https://imgur.com/7fIAa0V.png" alt="qb-back"/> </a> 
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://imgur.com/32Kizl9.png" alt="xd" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mikołaj-wójcik-66211129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mikołaj-wójcik-66211129b" height="30" width="40" /></a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikoslaf&show_icons=true&locale=en&layout=compact" alt="mikoslaf" /></p>
 
