@@ -19,6 +19,11 @@
   <a href="https://github.com/mikoslaf/JUVO" target="_blank" rel="noreferrer"> <img src="https://imgur.com/qbbeD9S.png" alt="JUVO"/> </a> 
 </p>
 
+<h3 align="left">My Python projects:</h3>
+<p align="left">
+  <a href="https://github.com/mikoslaf/CustomNpcFixer_Mob-Cloner" target="_blank" rel="noreferrer"> <img src="https://imgur.com/tMzZiVW.png" alt="CustomNpcFixer_Mob-Cloner"/> </a> 
+</p>
+
 <h3 align="left">My C# and Lua projects:</h3>
 <p align="left">
   <a href="https://github.com/mikoslaf/c-zones-influence" target="_blank" rel="noreferrer"> <img src="https://imgur.com/7mjnkmx.png" alt="c-zones-influence"/> </a> 
@@ -41,7 +46,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://imgur.com/32Kizl9.png" alt="xd" width="40" height="40"/> </a> 
 </p>
 
