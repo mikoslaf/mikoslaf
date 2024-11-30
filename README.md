@@ -12,16 +12,18 @@
 <h3 align="left">My Website projects:</h3>
 <p align="left">
   <a href="https://github.com/mikoslaf/M_Chess-Bot" target="_blank" rel="noreferrer"> <img src="https://imgur.com/gCsgodz.png" alt="Mchess"/> </a> 
-  <a href="https://ekipawuja.pl" target="_blank" rel="noreferrer"> <img src="https://imgur.com/Yt1oB5e.png" alt="Ekipa_Wuja"/> </a> 
+  <!-- <a href="https://ekipawuja.pl" target="_blank" rel="noreferrer"> <img src="https://imgur.com/Yt1oB5e.png" alt="Ekipa_Wuja"/> </a> -->
+  <a href="https://github.com/mikoslaf/JUVO" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/JYYfC7s.png" alt="JUVO"/> </a> 
   <a href="https://github.com/mikoslaf/giarddesign" target="_blank" rel="noreferrer"> <img src="https://imgur.com/0HV17AN.png" alt="giarddesign"/> </a> 
   <a href="https://github.com/mikoslaf/bittner" target="_blank" rel="noreferrer"> <img src="https://imgur.com/m0m2dLN.png" alt="Bittner"/> </a> 
   <a href="https://github.com/mikoslaf/Triumphant-Symphony-Website" target="_blank" rel="noreferrer"> <img src="https://imgur.com/4LWFtQR.png" alt="Triumphant_Symphony"/> </a> 
-  <a href="https://github.com/mikoslaf/JUVO" target="_blank" rel="noreferrer"> <img src="https://imgur.com/qbbeD9S.png" alt="JUVO"/> </a> 
+  
 </p>
 
 <h3 align="left">My Python projects:</h3>
 <p align="left">
   <a href="https://github.com/mikoslaf/CustomNpcFixer_Mob-Cloner" target="_blank" rel="noreferrer"> <img src="https://imgur.com/tMzZiVW.png" alt="CustomNpcFixer_Mob-Cloner"/> </a> 
+  <a href="https://github.com/mikoslaf/discord_module" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/OD4T5jK.png" alt="Discord Module"/> </a> 
 </p>
 
 <h3 align="left">My C# and Lua projects:</h3>
